@@ -1,0 +1,96 @@
+    body {
+        line-height: inherit;
+    }
+
+    body img{
+        height: 440px;
+        width:60%;
+        margin-top: 30px;
+    }
+
+    html {
+        line-height: 1.5;
+    }
+    
+    p {
+        margin-top: 0.5em;
+    }
+    
+    .text {
+        position:absolute;
+        left:195px;
+        top:180px;
+    }
+    
+
+    .log {
+        margin-top: 240px;
+        margin-left: 20px;
+        position:absolute;
+        left:195px;
+        top:180px;
+        font-size: 19px;
+        
+    }
+
+    .sharp {
+        margin-top: 560px;
+        position:absolute;
+        left:195px;
+        top:180px;
+        
+    }
+
+    .japan {
+        width: 300px;
+        height: 240px;
+        margin-top: 630px;
+        position:absolute;
+        left:195px;
+        top:180px;
+    }
+
+    .JAPAN {
+        margin-top: 875px;
+        position:absolute;
+        left:198px;
+        top:180px;
+        font-size: 14px;
+    }
+    
+
+    .benito {
+        margin-top: 620px;
+        position:absolute;
+        left:510px;
+        top:180px;
+    }
+
+    .kirito {
+        margin-top: 900px;
+        position:absolute;
+        left:195px;
+        top:180px;
+    }
+
+    .kirito img{
+        margin-left: 150px;
+    }
+
+    .kirito figcaption{
+        margin-left: 150px;
+    }
+
+    .kirito h3{
+        font-size: 24px;
+        margin-bottom: 30px;
+    }
+    
+
+    .addition{
+        margin-top: 7700px;
+        position:absolute;
+        left:195px;
+        top:200px;
+    }
+
